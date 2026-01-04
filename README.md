@@ -2,7 +2,7 @@
 
 ## 1️⃣ Requirement Analysis
 - **Project Goal:** [Briefly explain the purpose of the app]  
-- **Target Audience:** [Age group, location, interests]  
+- **Target Audience:** Age group, location  
 - **Problem Statement:** [What problem this app will solve]  
 - **User Research:** [Summary of surveys, interviews, competitor review]  
 - **MVP Scope:** [Minimum features for initial launch]  
