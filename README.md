@@ -10,6 +10,8 @@
 
 ---
 
+### 🔥🔥🔥🔥Clear Architecture (Highly Recommended for Testing)🔥🔥🔥🔥
+
 ## 2️⃣ Target Platform
 
 * **Platforms Supported:**
